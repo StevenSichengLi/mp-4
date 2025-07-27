@@ -1,4 +1,4 @@
-
+import type { CatImage } from "@/types";
 import CatImagePreview from "@/components/CatImagePreview";
 
 
