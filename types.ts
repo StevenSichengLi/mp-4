@@ -15,3 +15,6 @@ export type Breed = {
     [key: string]: unknown;
 };
 
+export type CatImageProps = {
+    image: CatImage;
+};
