@@ -1,4 +1,4 @@
-
+import Link from "next/link";
 export default function Header() {
     return (
         <header className="flex flex-col justify-center items-center h-20 px-4 bg-black">
